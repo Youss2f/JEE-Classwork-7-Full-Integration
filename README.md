@@ -28,7 +28,7 @@ This project combines all activities into a complete microservices-based banking
 │ :8081  │    │   :8082   │ │ :8083 │  │  :8084  │   │   :8889   │
 └────────┘    └───────────┘ └───────┘  └─────────┘   └───────────┘
 ```
-
+![architecture micro servicees](screenshots/architecture micro ervicees.jpg)
 ## Services Included
 | Service | Port | Description |
 |---------|------|-------------|
@@ -93,8 +93,9 @@ Youssef Atertour - EMSI 2025
 **Customer Service H2 Console**
 ![H2 Console](screenshots/h2_console.png)
 
-**Customer REST API**
-![REST API](screenshots/rest_api.png)
+**Customer REST API (Populated)**
+![REST API](screenshots/customer_api_populated.png)
+
 
 **Inventory REST API (Populated)**
 ![Inventory API](screenshots/inventory_rest_api.png)
