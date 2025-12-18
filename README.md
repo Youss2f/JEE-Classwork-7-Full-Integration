@@ -96,3 +96,7 @@ Youssef Atertour - EMSI 2025
 **Customer REST API**
 ![REST API](screenshots/rest_api.png)
 
+**Inventory REST API (Populated)**
+![Inventory API](screenshots/inventory_rest_api.png)
+
+
