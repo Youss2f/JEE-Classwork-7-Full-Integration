@@ -69,3 +69,30 @@ docker-compose up -d
 
 ## Author
 Youssef Atertour - EMSI 2025
+
+---
+
+## Proof Screenshots
+
+### Microservices Architecture
+**Eureka Dashboard**
+![Eureka Dashboard](screenshots/eureka_dashboard.png)
+
+**Gateway Routing**
+![Gateway Routing](screenshots/gateway_routing.png)
+
+### Frontend
+**Angular UI**
+![Angular UI](screenshots/angular_ui.png)
+
+### Security
+**Keycloak Login**
+![Keycloak Login](screenshots/keycloak_login.png)
+
+### Backend Services
+**Customer Service H2 Console**
+![H2 Console](screenshots/h2_console.png)
+
+**Customer REST API**
+![REST API](screenshots/rest_api.png)
+
