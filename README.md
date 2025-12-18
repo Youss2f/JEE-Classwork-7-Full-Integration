@@ -75,29 +75,27 @@ Youssef Atertour - EMSI 2025
 ## Proof Screenshots
 
 ### Microservices Architecture
-**Eureka Dashboard**
-![Eureka Dashboard](screenshots/eureka_dashboard.png)
+**Service Registry**
+![Eureka Dashboard](screenshots/service-registry.png)
 
 **Gateway Routing**
-![Gateway Routing](screenshots/gateway_routing.png)
+![Gateway Routing](screenshots/gateway-routes.png)
 
 ### Frontend
 **Angular UI**
-![Angular UI](screenshots/angular_ui.png)
+![Angular UI](screenshots/frontend-overview.png)
 
 ### Security
-**Keycloak Login**
-![Keycloak Login](screenshots/keycloak_login.png)
+**Security Integration**
+![Keycloak Login](screenshots/sso-login.png)
 
 ### Backend Services
 **Customer Service H2 Console**
-![H2 Console](screenshots/h2_console.png)
-
-**Customer REST API (Populated)**
-![REST API](screenshots/customer_api_populated.png)
+![H2 Console](screenshots/h2-database-console.png)
 
 
-**Inventory REST API (Populated)**
-![Inventory API](screenshots/inventory_rest_api.png)
+**Customer API**
+![REST API](screenshots/customer-api-response.png)
 
-
+**Inventory API**
+![Inventory API](screenshots/inventory-api-response.png)
